@@ -12,3 +12,5 @@ Creating a new branch is quick & simple.
 Test no fast-forward branch management strategy.
 
 We add a python file to this repository.
+
+This is a clone version modified on dev branch.
